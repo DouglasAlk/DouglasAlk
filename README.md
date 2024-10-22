@@ -35,6 +35,4 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/douglas_alkiminn)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglasmikaeldev/)
 
 
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Francine02/Francine02/output/snake.svg" />
+ ![snake](https://raw.githubusercontent.com/DouglasAlk/DouglasAlk/output/snake.svg)
