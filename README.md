@@ -3,7 +3,7 @@
 
 
 - Tenho 23 anos  👩🏻‍💻
-- Moro em Cujubim - Ro 🏙️
+- Moro em Rio Branco - AC 🏙️
 - Estudante de Engenharia de Software 👾
 - Em busca de estágio (primeira oportunidade em Java) ☕
 
