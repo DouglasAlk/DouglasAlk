@@ -5,7 +5,7 @@
 - Tenho 23 anos  👩🏻‍💻
 - Moro em Rio Branco - AC 🏙️
 - Estudante de Engenharia de Software 👾
-- Em busca de estágio (primeira oportunidade em Java) ☕
+- Técnico em Produção
 
 #
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=douglasalk&theme=dark) 
